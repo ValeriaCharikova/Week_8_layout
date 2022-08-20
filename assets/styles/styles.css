@@ -1,0 +1,15 @@
+.header,
+      .footer {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color: #343a40;
+        padding: 10px;
+        color: white;
+      }
+      .nav-link {
+        color: grey;
+      }
+      .active {
+        color: white;
+      }
